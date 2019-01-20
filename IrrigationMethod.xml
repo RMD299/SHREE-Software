@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IrrigationMethod>
+  <MethodCode Code="1">
+    <Method>पाटपाणी</Method>
+  </MethodCode>
+  <MethodCode Code="2">
+    <Method>ठिबक सिंचन</Method>
+  </MethodCode>
+  <MethodCode Code="3">
+    <Method>तुषार सिंचन</Method>
+  </MethodCode>
+</IrrigationMethod>

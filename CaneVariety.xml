@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CaneVariety>
+  <VarietyCode Code="1">
+    <VarietyName>Co - 86032</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="2">
+    <VarietyName>Co - 738</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="3">
+    <VarietyName>Co - 7219</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="4">
+    <VarietyName>Co - 8014</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="5">
+    <VarietyName>Co - 740</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="6">
+    <VarietyName>Co - 671</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="7">
+    <VarietyName>Co - 7527</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="8">
+    <VarietyName>Co- 419</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="9">
+    <VarietyName>Co- 2001</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="10">
+    <VarietyName>Co- 94012</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="11">
+    <VarietyName>Co- 6847</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="12">
+    <VarietyName>Co- 2002</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="13">
+    <VarietyName>Co- 940</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="14">
+    <VarietyName>Co- 672</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="15">
+    <VarietyName>Co- 62175</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="16">
+    <VarietyName>Co 95020</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="17">
+    <VarietyName>Co-434</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="18">
+    <VarietyName>Co-12462</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="19">
+    <VarietyName>Co-265</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="21">
+    <VarietyName>Co - 9805</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="20">
+    <VarietyName>Co-99004</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="22">
+    <VarietyName>Co- 03102</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="23">
+    <VarietyName>Co-261</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="24">
+    <VarietyName>Ms-10001</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="25">
+    <VarietyName>Co-8005</VarietyName>
+  </VarietyCode>
+</CaneVariety>

@@ -1,0 +1,1350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SubVillageList>
+  <GatCode Code="12">
+    <GatName>राहु</GatName>
+    <VillageCode Code="80">
+      <VillageName>पाटेठाण</VillageName>
+      <SubVillageCode Code="273">
+        <SubVillageName>पाटेठाण(२)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="831">
+        <SubVillageName>कारखाना कार्यस्थळ(1)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1827">
+        <SubVillageName>पाटेठाणशिव(३)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="81">
+      <VillageName>राहु</VillageName>
+      <SubVillageCode Code="274">
+        <SubVillageName>राहू(७)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="318">
+        <SubVillageName>शिंदेनगर(१०)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="319">
+        <SubVillageName>माधवनगर(९)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="321">
+        <SubVillageName>गोरपट्टा(७)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="322">
+        <SubVillageName>पिंपळ चोंधी(२)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="323">
+        <SubVillageName>थोरलीविहीर(७)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="324">
+        <SubVillageName>सोनवणेमळा(५)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="374">
+        <SubVillageName>चव्हाणवाडी(०९ बै)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="379">
+        <SubVillageName>दत्तनगर(१०)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="456">
+        <SubVillageName>वांदारा(१०)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1654">
+        <SubVillageName>बांदलवस्ती(१२)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="82">
+      <VillageName>दहीटणे</VillageName>
+      <SubVillageCode Code="1655">
+        <SubVillageName>दहीटणे(११)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1656">
+        <SubVillageName>गणेशनगर(७)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="84">
+      <VillageName>देवकरवाडी</VillageName>
+      <SubVillageCode Code="946">
+        <SubVillageName>देवकरवाडी(६)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="85">
+      <VillageName>टाकळी भिमा</VillageName>
+      <SubVillageCode Code="278">
+        <SubVillageName>टाकळी भिमा(६)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="697">
+        <SubVillageName>गरदरेवाडी(९)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="86">
+      <VillageName>पानवली</VillageName>
+      <SubVillageCode Code="279">
+        <SubVillageName>पानवली(१२)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1657">
+        <SubVillageName>लेंडेवाडी(८)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1658">
+        <SubVillageName>कांबळेनगर(१५)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="87">
+      <VillageName>वडगाव बांडे</VillageName>
+      <SubVillageCode Code="579">
+        <SubVillageName>गरदरेवाडी(९)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="716">
+        <SubVillageName>लोंढेमळा(बैलगाडी)(८)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1607">
+        <SubVillageName>वडगाव बांडे(१५)कोरेगाव घाटमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1610">
+        <SubVillageName>वडगाव बांडे शिव(१३)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1659">
+        <SubVillageName>वडगाव बांडे(६)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="88">
+      <VillageName>कोरेगाव भिवर</VillageName>
+      <SubVillageCode Code="281">
+        <SubVillageName>कोरेगाव भिवर (१५)(बै)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="982">
+        <SubVillageName>कोरेगाव भिवर (राहूमार्गे])(१९)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="89">
+      <VillageName>वाळकी</VillageName>
+      <SubVillageCode Code="312">
+        <SubVillageName>वाळकी संगम (१९)राहूमार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="327">
+        <SubVillageName>थोरात मळा(११)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="519">
+        <SubVillageName>पिराची वाडी(१७)राहूमार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1660">
+        <SubVillageName>वाळकी (१५)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1829">
+        <SubVillageName>वाळकी (१२) बै</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="90">
+      <VillageName>टेळेवाडी</VillageName>
+      <SubVillageCode Code="510">
+        <SubVillageName>टेळेवाडी(६)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="932">
+        <SubVillageName>टेळेवाडीपठार(९)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1602">
+        <SubVillageName>टेळेवाडीपाठार(१५)कोरेगाव घाटमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1828">
+        <SubVillageName>देशमुख पठार (३)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="91">
+      <VillageName>पिलाणवाडी</VillageName>
+      <SubVillageCode Code="284">
+        <SubVillageName>पिलाणवाडी(५)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="92">
+      <VillageName>पिपंळगाव</VillageName>
+      <SubVillageCode Code="285">
+        <SubVillageName>पिंपळगाव (११)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="820">
+        <SubVillageName>शितोळेवस्ती(१४)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="891">
+        <SubVillageName>वाढे(१३)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="121">
+      <VillageName>डुबेवाडी</VillageName>
+      <SubVillageCode Code="314">
+        <SubVillageName>डूबेवाडी(५)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="123">
+      <VillageName>मगरवाडी</VillageName>
+      <SubVillageCode Code="316">
+        <SubVillageName>मगरवाडी(७)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1854">
+      <VillageName>मिरवडी</VillageName>
+      <SubVillageCode Code="1855">
+        <SubVillageName>बैलखिळा(राहुरोडमार्गे)(१२)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1856">
+        <SubVillageName>मिरवडी(राहुरोडमार्गे)(१४)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1857">
+        <SubVillageName>मेमाणेवाडी(राहुरोडमार्गे)(१२)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1858">
+        <SubVillageName>मिरवडी(अष्टापूरमार्गे)(१९)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="13">
+    <GatName>पारगाव</GatName>
+    <VillageCode Code="105">
+      <VillageName>पारगाव</VillageName>
+      <SubVillageCode Code="458">
+        <SubVillageName>लिफ्ट वस्ती(२३)पारगाव मार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="961">
+        <SubVillageName>वाटलुज(८५)मलठणमार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1639">
+        <SubVillageName>पारगाव(२१)देलवडीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="106">
+      <VillageName>कानगाव</VillageName>
+      <SubVillageCode Code="897">
+        <SubVillageName>कानगांव(पारगावमार्गे])(४२)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="107">
+      <VillageName>देलवडी</VillageName>
+      <SubVillageCode Code="301">
+        <SubVillageName>एकेरीवाडी(देलवडीमार्गे])(१८)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1640">
+        <SubVillageName>देलवडी(पिंपळगावमार्गे)(१५)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="108">
+      <VillageName>एकेरीवाडी</VillageName>
+      <SubVillageCode Code="1613">
+        <SubVillageName>पानमळा(१८)पिंपळगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="109">
+      <VillageName>खुटबाव</VillageName>
+      <SubVillageCode Code="302">
+        <SubVillageName>खुटबाव(पिंपळगाव मार्गे])(१९)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="110">
+      <VillageName>गलांडवाडी</VillageName>
+      <SubVillageCode Code="540">
+        <SubVillageName>गलांडवाडी (खुटबावमार्गे])(२४)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1843">
+        <SubVillageName>गलांडवाडी(२०)ट्रक्टरगाडी-देलवडीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="111">
+      <VillageName>नानगाव</VillageName>
+      <SubVillageCode Code="1844">
+        <SubVillageName>नानगाव(पारगावमार्गे) २८</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="112">
+      <VillageName>हातवळण</VillageName>
+      <SubVillageCode Code="1641">
+        <SubVillageName>हातवळण(३५)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="114">
+      <VillageName>वरवंड</VillageName>
+      <SubVillageCode Code="1643">
+        <SubVillageName>वरवंड(३५)कडेठाणमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1722">
+        <SubVillageName>माळवाडी(४१)वरवंडमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="115">
+      <VillageName>कडेठाण</VillageName>
+      <SubVillageCode Code="308">
+        <SubVillageName>कडेठाण(पिंपळगाव मार्गे])(३२)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="117">
+      <VillageName>केडगाव</VillageName>
+      <SubVillageCode Code="310">
+        <SubVillageName>केडगाव(पिंपळगाव मार्गे])(२५)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1603">
+        <SubVillageName>जुने केडगाव(२८)केडगाव स्टेशनमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="118">
+      <VillageName>शिंदेवाडी (पारगाव)</VillageName>
+      <SubVillageCode Code="311">
+        <SubVillageName>शिंदेवाडी (२४)(पारगावमार्गे]</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="139">
+      <VillageName>भांडगाव</VillageName>
+      <SubVillageCode Code="361">
+        <SubVillageName>भांडगाव(२५)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="141">
+      <VillageName>दापोडी</VillageName>
+      <SubVillageCode Code="378">
+        <SubVillageName>दापोडी(२८) केडगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="160">
+      <VillageName>खोपोडी</VillageName>
+      <SubVillageCode Code="1729">
+        <SubVillageName>खोपोडी(२६)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="176">
+      <VillageName>कुरकुंभ</VillageName>
+      <SubVillageCode Code="1870">
+        <SubVillageName>कुरकुंभ(४८)पाटसमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1075">
+      <VillageName>पाटस</VillageName>
+      <SubVillageCode Code="174">
+        <SubVillageName>पाटस ( केडगावमार्गे ) (४२ )</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1207">
+      <VillageName>देऊळगाव गाडा</VillageName>
+      <SubVillageCode Code="1205">
+        <SubVillageName>देऊळ्गाव गाडा(३२)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1305">
+      <VillageName>गार</VillageName>
+      <SubVillageCode Code="1642">
+        <SubVillageName>गार(४५)नानगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1491">
+      <VillageName>मलठण</VillageName>
+      <SubVillageCode Code="1527">
+        <SubVillageName>मलठण(दौंड-केडगावमार्गे)(७९)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1543">
+      <VillageName>कुसेगाव</VillageName>
+      <SubVillageCode Code="1726">
+        <SubVillageName>कुसेगाव(४५)पाटसमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1724">
+      <VillageName>देऊळगाव राजे</VillageName>
+      <SubVillageCode Code="1725">
+        <SubVillageName>देउळगाव राजे (६७)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1727">
+      <VillageName>मेरगळ वाडी</VillageName>
+      <SubVillageCode Code="1728">
+        <SubVillageName>मेरगळवाडी(६०)पाटसमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1839">
+      <VillageName>मळद</VillageName>
+      <SubVillageCode Code="1838">
+        <SubVillageName>मळद(६०)केडगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1864">
+      <VillageName>लोणारवाडी</VillageName>
+      <SubVillageCode Code="1865">
+        <SubVillageName>लोणारवाडी</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="14">
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode Code="39">
+      <VillageName>आरणगाव</VillageName>
+      <SubVillageCode Code="1822">
+        <SubVillageName>अरणगाव(३४)वाळकीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1871">
+        <SubVillageName>अरणगाव(१५)ट्रक्टरगाडी</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="40">
+      <VillageName>उरळगाव</VillageName>
+      <SubVillageCode Code="1637">
+        <SubVillageName>उरळगाव (४०)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="41">
+      <VillageName>आलेगाव पागा</VillageName>
+      <SubVillageCode Code="923">
+        <SubVillageName>आलेगाव पागा(१५)डँममार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1821">
+        <SubVillageName>आलेगाव पागा(२६)वाळकीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="42">
+      <VillageName>रांजणगाव सांडस</VillageName>
+      <SubVillageCode Code="1737">
+        <SubVillageName>रांजनगाव सांडस(१६)(ट्रॅ.गा)सहकारनगरमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1818">
+        <SubVillageName>रांजणगाव सांडस (२०) वाळकीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1820">
+        <SubVillageName>कामठेवाडी (२३) वाळकीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="43">
+      <VillageName>राक्षेवाडी</VillageName>
+      <SubVillageCode Code="1738">
+        <SubVillageName>राक्षेवाडी(१८)(ट्रॅ.गा)सहकारनगरमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1867">
+        <SubVillageName>राक्षेवाडी(२२) वाळकीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="45">
+      <VillageName>नागरगाव</VillageName>
+      <SubVillageCode Code="238">
+        <SubVillageName>नागरगाव(पारगावमार्गे])(२४)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="46">
+      <VillageName>कुरुळी</VillageName>
+      <SubVillageCode Code="1631">
+        <SubVillageName>कुरुळी(३१)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="47">
+      <VillageName>वडगाव रासाई</VillageName>
+      <SubVillageCode Code="1632">
+        <SubVillageName>वडगाव रासाई(३१)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="49">
+      <VillageName>साद्लगाव</VillageName>
+      <SubVillageCode Code="1634">
+        <SubVillageName>सादलगाव(३६)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="50">
+      <VillageName>मांडवगण फराटा</VillageName>
+      <SubVillageCode Code="1633">
+        <SubVillageName>मांडवगण फराटा(३७)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1719">
+        <SubVillageName>फराटवाडी४०)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="53">
+      <VillageName>तांदळी</VillageName>
+      <SubVillageCode Code="1635">
+        <SubVillageName>तांदळी(४५)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="55">
+      <VillageName>इनामगाव</VillageName>
+      <SubVillageCode Code="1636">
+        <SubVillageName>इनामगाव (४५)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="57">
+      <VillageName>शिरसगाव काटा</VillageName>
+      <SubVillageCode Code="250">
+        <SubVillageName>शिरसगांव काटा(पारगावमार्गे])(४५)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="136">
+      <VillageName>आंधळगाव</VillageName>
+      <SubVillageCode Code="339">
+        <SubVillageName>आंधळगाव(पारगावमार्गे])(२७)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="147">
+      <VillageName>न्हावरा</VillageName>
+      <SubVillageCode Code="1736">
+        <SubVillageName>न्हावरा(३४)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="203">
+      <VillageName>निर्वी</VillageName>
+      <SubVillageCode Code="725">
+        <SubVillageName>निर्वी(पारगावमार्गे])(३८)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="921">
+      <VillageName>गणेगाव दुमला</VillageName>
+      <SubVillageCode Code="714">
+        <SubVillageName>गणेगाव दुमाला(४५)पारगावमार्गे]</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1034">
+      <VillageName>निमोणे</VillageName>
+      <SubVillageCode Code="1863">
+        <SubVillageName>निमोणे(४१)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1868">
+        <SubVillageName>भोसेवाडी(४३)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1872">
+        <SubVillageName>मोटवाडी(०)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1187">
+      <VillageName>कर्डे</VillageName>
+      <SubVillageCode Code="1189">
+        <SubVillageName>कर्डे(पारगावमार्गे])(४५)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1539">
+      <VillageName>आंबळे</VillageName>
+      <SubVillageCode Code="1638">
+        <SubVillageName>आंबळे(४०)पारगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="15">
+    <GatName>हवेली</GatName>
+    <VillageCode Code="59">
+      <VillageName>सांगवी सांडस</VillageName>
+      <SubVillageCode Code="252">
+        <SubVillageName>सांगवी सांडस (राहूरोडमार्गे])(९)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="60">
+      <VillageName>न्हावी सांडस</VillageName>
+      <SubVillageCode Code="253">
+        <SubVillageName>न्हावी सांडस (११)पाटेठाणमार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="754">
+        <SubVillageName>न्हावी सांडस (राहूरोडमार्गे])(१४)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="61">
+      <VillageName>पिंप्री सांडस</VillageName>
+      <SubVillageCode Code="254">
+        <SubVillageName>पिंपरी सांडस(१९)अष्टापूरफाटामार्गे]</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="62">
+      <VillageName>बुर्केगावा</VillageName>
+      <SubVillageCode Code="255">
+        <SubVillageName>बुर्केगाव(२१)अष्टापूरफाटामार्गे]</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="63">
+      <VillageName>आष्टापूर</VillageName>
+      <SubVillageCode Code="256">
+        <SubVillageName>अष्टापूर(२०)अष्टापूरफाटामार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="562">
+        <SubVillageName>माळवाडी(२२)अष्टापूरमार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1619">
+        <SubVillageName>ढाशी(अष्टापूरमार्गे)(२३)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1622">
+        <SubVillageName>अष्टापूर(२१)पंपवस्तीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="64">
+      <VillageName>डोंगरगाव</VillageName>
+      <SubVillageCode Code="257">
+        <SubVillageName>डोंगरगाव (२५)अष्टापूरफाटामार्गे]</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="65">
+      <VillageName>पेरणे</VillageName>
+      <SubVillageCode Code="258">
+        <SubVillageName>पेरणे(२७)अष्टापूरफाटामार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1661">
+        <SubVillageName>पेरणे फाटा(२९)(अष्टापूरफाटामार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="66">
+      <VillageName>हिंगणगाव</VillageName>
+      <SubVillageCode Code="1405">
+        <SubVillageName>हिंगणगाव(राहूरोडमार्गे)(१५)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1481">
+        <SubVillageName>हिंगणगाव(अष्टापूरमार्गे)(२३)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1813">
+        <SubVillageName>पाटीलवस्ती (१७) हिंगनगावमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="68">
+      <VillageName>उरुळी कांचन</VillageName>
+      <SubVillageCode Code="261">
+        <SubVillageName>उरुळीकांचन(३२)खामगावमार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1483">
+        <SubVillageName>टिळेकरमळा(उरुळीमार्गे)(३२)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="70">
+      <VillageName>कोलवडी</VillageName>
+      <SubVillageCode Code="1620">
+        <SubVillageName>कोलवडी(४५)बोल्हाईमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="72">
+      <VillageName>मांजरी</VillageName>
+      <SubVillageCode Code="1523">
+        <SubVillageName>मांजरी  खुर्द(५०)बोल्हाईमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="74">
+      <VillageName>भावडी</VillageName>
+      <SubVillageCode Code="267">
+        <SubVillageName>भावडी (४२)तुळापुर मार्गे]</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="75">
+      <VillageName>वढू खुर्द</VillageName>
+      <SubVillageCode Code="1616">
+        <SubVillageName>वढू खुर्द (३३)आळंदीफाटामार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="128">
+      <VillageName>तुळापुर</VillageName>
+      <SubVillageCode Code="333">
+        <SubVillageName>तुळापुर(३९)आळंदी फाटा मार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1617">
+        <SubVillageName>नागरमलवस्ती(४०)आळंदीफाटामार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="130">
+      <VillageName>भवरापूर</VillageName>
+      <SubVillageCode Code="1605">
+        <SubVillageName>भवरापूर(२४)गोळीबारमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="155">
+      <VillageName>शिंदेवाडी(हवेली)</VillageName>
+      <SubVillageCode Code="532">
+        <SubVillageName>शिंदेवाडी (१३)हिंगणगाव मार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="541">
+        <SubVillageName>जगतापवाडी(हिंगणगावमार्गे])(१५)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="166">
+      <VillageName>शिंदवणे</VillageName>
+      <SubVillageCode Code="616">
+        <SubVillageName>शिंदवणे(३५)खामगावमार्गे]</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="172">
+      <VillageName>कोरेगाव मूळ</VillageName>
+      <SubVillageCode Code="608">
+        <SubVillageName>कोरेगाव मूळ(२६)भवरापूरमार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1542">
+        <SubVillageName>कोरेगाव मुळ(३५)प्रयागधाममार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="175">
+      <VillageName>बिवरी</VillageName>
+      <SubVillageCode Code="615">
+        <SubVillageName>बिवरी(अष्टापूरमार्गे])(२९)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="178">
+      <VillageName>भवरापूर</VillageName>
+      <SubVillageCode Code="335">
+        <SubVillageName>भवरापूर(अष्टापूरमार्गे])(२२)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="179">
+      <VillageName>लोणीकंद</VillageName>
+      <SubVillageCode Code="641">
+        <SubVillageName>लोणी कंद(३१)पेरणेमार्गे]</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="181">
+      <VillageName>बकोरी</VillageName>
+      <SubVillageCode Code="1869">
+        <SubVillageName>बकोरी (०) केसनंदमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="188">
+      <VillageName>तरडे</VillageName>
+      <SubVillageCode Code="1463">
+        <SubVillageName>तरडे(३८)उरुळीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="191">
+      <VillageName>लोणी काळभोर</VillageName>
+      <SubVillageCode Code="686">
+        <SubVillageName>लोणी काळभोर(४२)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="195">
+      <VillageName>नायगाव</VillageName>
+      <SubVillageCode Code="693">
+        <SubVillageName>नायगाव(४०)प्रयागधाम मार्गे]</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="781">
+      <VillageName>फुरुसुंगी</VillageName>
+      <SubVillageCode Code="1549">
+        <SubVillageName>फुरसुंगी(६०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="782">
+      <VillageName>थेऊर</VillageName>
+      <SubVillageCode Code="893">
+        <SubVillageName>थेऊर(४५)उरुळीमार्गे]</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="786">
+      <VillageName>मुंढवा</VillageName>
+      <SubVillageCode Code="854">
+        <SubVillageName>मुंढवा (५६)पुणे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1101">
+      <VillageName>फुलगाव</VillageName>
+      <SubVillageCode Code="1094">
+        <SubVillageName>फुलगाव(३५)आळंदीफाटा मार्गे]</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1513">
+      <VillageName>साष्टे</VillageName>
+      <SubVillageCode Code="1621">
+        <SubVillageName>साष्टे(३८)बोल्हाईमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1614">
+      <VillageName>वडकी</VillageName>
+      <SubVillageCode Code="1615">
+        <SubVillageName>वडकी(६५)उरुळीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="18">
+    <GatName>गेटकेन</GatName>
+    <VillageCode Code="76">
+      <VillageName>मरकळ</VillageName>
+      <SubVillageCode Code="269">
+        <SubVillageName>मरकळ(आळंदीफाटामार्गे](४१)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="77">
+      <VillageName>कोयाळी</VillageName>
+      <SubVillageCode Code="1623">
+        <SubVillageName>कोयाळी(४७)मरकळमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="78">
+      <VillageName>वडगाव शिंदे</VillageName>
+      <SubVillageCode Code="1814">
+        <SubVillageName>वडगाव शिंदे (४७)आळंदीखिंडीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1277">
+      <VillageName>कौढा</VillageName>
+      <SubVillageCode Code="1275">
+        <SubVillageName>कौढा(५०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1301">
+      <VillageName>आनंदवाडी</VillageName>
+      <SubVillageCode Code="1299">
+        <SubVillageName>आनंदवाडी(५०)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1662">
+        <SubVillageName>आर्वी(५०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1528">
+      <VillageName>मोहीतेवाडी</VillageName>
+      <SubVillageCode Code="1534">
+        <SubVillageName>शेल पिंपळगाव (०)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1751">
+        <SubVillageName>मोहीतेवाडी(४४)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1530">
+      <VillageName>गोलेगाव</VillageName>
+      <SubVillageCode Code="1815">
+        <SubVillageName>गोलेगाव(४७) आळंदीखिंडीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1540">
+      <VillageName>सोळू</VillageName>
+      <SubVillageCode Code="1817">
+        <SubVillageName>सोळू(४५)मरकळमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1566">
+      <VillageName>दौंडकरवाडी</VillageName>
+      <SubVillageCode Code="1567">
+        <SubVillageName>दौंडकरवाडी(५८)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1734">
+      <VillageName>वाकी</VillageName>
+      <SubVillageCode Code="1735">
+        <SubVillageName>वाकी(५०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1830">
+      <VillageName>खेड</VillageName>
+      <SubVillageCode Code="1831">
+        <SubVillageName>खेड(६७)विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1832">
+        <SubVillageName>चाकण (0)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1840">
+      <VillageName>पिंपळगाव फडके</VillageName>
+      <SubVillageCode Code="1816">
+        <SubVillageName>पिपंळगाव फडके(४५) मरकळमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1845">
+      <VillageName>वीर</VillageName>
+      <SubVillageCode Code="1846">
+        <SubVillageName>वीर(११५) निरामार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1847">
+      <VillageName>मांडकी</VillageName>
+      <SubVillageCode Code="1848">
+        <SubVillageName>मांडकी(१०५) निरामार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1849">
+      <VillageName>लपतडवाडी</VillageName>
+      <SubVillageCode Code="1850">
+        <SubVillageName>लपतडवाडी(११०) निरामार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1851">
+      <VillageName>परिचे</VillageName>
+      <SubVillageCode Code="1852">
+        <SubVillageName>परिचे(१२०)निरामार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1859">
+      <VillageName>धानोरे(गेटकेन)</VillageName>
+      <SubVillageCode Code="1860">
+        <SubVillageName>धानोरे(०)गेटकेन</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1861">
+      <VillageName>निरगुडी</VillageName>
+      <SubVillageCode Code="1862">
+        <SubVillageName>निरगुडी(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="19">
+    <GatName>खामगाव</GatName>
+    <VillageCode Code="48">
+      <VillageName>शेलारवाडी</VillageName>
+      <SubVillageCode Code="241">
+        <SubVillageName>शेलारवाडी (१८)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="93">
+      <VillageName>लडकतवाडी</VillageName>
+      <SubVillageCode Code="286">
+        <SubVillageName>लडकतवाडी (१५)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="94">
+      <VillageName>नाथाचीवाडी</VillageName>
+      <SubVillageCode Code="287">
+        <SubVillageName>नाथाचीवाडी(१६)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="95">
+      <VillageName>खामगांव </VillageName>
+      <SubVillageCode Code="288">
+        <SubVillageName>खामगांव(१५)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="596">
+        <SubVillageName>गाडामोडी(१८)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1823">
+        <SubVillageName>तांबेवाडी(१६)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="98">
+      <VillageName>कासुर्डी</VillageName>
+      <SubVillageCode Code="291">
+        <SubVillageName>कासुर्डी (२३)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="99">
+      <VillageName>नांदूर</VillageName>
+      <SubVillageCode Code="292">
+        <SubVillageName>नांदूर(१६)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1826">
+        <SubVillageName>नांदूर(१८)पेडरमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="100">
+      <VillageName>सहजपूर</VillageName>
+      <SubVillageCode Code="293">
+        <SubVillageName>सहजपूर (२२)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1646">
+        <SubVillageName>जावजीबुवाचीवाडी(२५)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1647">
+        <SubVillageName>सहजपूर  फाटा(२३)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="101">
+      <VillageName>भरतगाव</VillageName>
+      <SubVillageCode Code="365">
+        <SubVillageName>भरतगाव(२६)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="103">
+      <VillageName>यादववाडी</VillageName>
+      <SubVillageCode Code="296">
+        <SubVillageName>यादववाडी (१९)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="974">
+        <SubVillageName>केदारेवस्ती(२१)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="113">
+      <VillageName>यवत </VillageName>
+      <SubVillageCode Code="306">
+        <SubVillageName>यवत(२७)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="127">
+      <VillageName>उंडवडी</VillageName>
+      <SubVillageCode Code="1644">
+        <SubVillageName>उंडवडी(१४)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1824">
+        <SubVillageName>भोसलेवाडी(१४)बै</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="144">
+      <VillageName>यवत स्टेशन</VillageName>
+      <SubVillageCode Code="1825">
+        <SubVillageName>यवत स्टेशन(१९)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="167">
+      <VillageName>बोरीऐंदी</VillageName>
+      <SubVillageCode Code="1648">
+        <SubVillageName>बोरीऐंदी(३२)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="169">
+      <VillageName>ताम्हणवाडी</VillageName>
+      <SubVillageCode Code="1649">
+        <SubVillageName>ताम्हाणेवाडी(३४)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="177">
+      <VillageName>खामगांव टेक</VillageName>
+      <SubVillageCode Code="622">
+        <SubVillageName>खामगांव टेक(४०)उरुळीमार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1600">
+        <SubVillageName>खामगांव टेक(२४)नांदूरमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="184">
+      <VillageName>बोरीभडक</VillageName>
+      <SubVillageCode Code="1650">
+        <SubVillageName>बोरीभडक(३०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1100">
+      <VillageName>टिळेकर वाडी</VillageName>
+      <SubVillageCode Code="1099">
+        <SubVillageName>टिळेकर वाडी(३५)उरुळीमार्गे]</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1653">
+        <SubVillageName>टिळेकरवाडी(२३)सहजपूर मार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1730">
+      <VillageName>पांडेश्वर</VillageName>
+      <SubVillageCode Code="1731">
+        <SubVillageName>पांडेश्वर(४७) </SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="20">
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode Code="22">
+      <VillageName>तळेगाव ढमढेरे</VillageName>
+      <SubVillageCode Code="1761">
+        <SubVillageName>तळेगाव ढमढेरे(१९)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1778">
+        <SubVillageName>भोसेवस्ती(१७)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1780">
+        <SubVillageName>तळेगाव ढमढेरे(१५)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1781">
+        <SubVillageName>रामवाडी(१७)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1782">
+        <SubVillageName>गुरवमळा(१८)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1783">
+        <SubVillageName>शिंदेवस्ती(१६)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1784">
+        <SubVillageName>देंडगेवस्ती(१६)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1785">
+        <SubVillageName>साळूमाळूवस्ती(१९)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1786">
+        <SubVillageName>मुळेवस्ती(१८)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1787">
+        <SubVillageName>जगतापवस्ती(१८)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1788">
+        <SubVillageName>केवटेमळा(१३)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1789">
+        <SubVillageName>माथेमळी(१२)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1790">
+        <SubVillageName>चोरमलेवस्ती(१४)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1799">
+        <SubVillageName>भोसेवस्ती(१३)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1804">
+        <SubVillageName>माळीमळा(१७)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1873">
+        <SubVillageName>तांबोळओढा(२५)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1874">
+        <SubVillageName>तांबोळओढा(२२)टायर/ट्र.गाडी(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="23">
+      <VillageName>भिमशेत</VillageName>
+      <SubVillageCode Code="1764">
+        <SubVillageName>भिमशेत(17)(टायर/टा.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1800">
+        <SubVillageName>भिमशेत(14)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="24">
+      <VillageName>विठ्ठलवाडी</VillageName>
+      <SubVillageCode Code="1762">
+        <SubVillageName>विठ्ठलवाडी(१२)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1775">
+        <SubVillageName>पुनर्वसन(१६)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1776">
+        <SubVillageName>डाल वस्ती(१७)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1791">
+        <SubVillageName>विठ्ठलवाडी(१०)(टायर/टा.गा)(विठ्ठलववाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1792">
+        <SubVillageName>मिरगव्हाण(९)(टायर/ट्रॅ.गा)(विठ्ठलववाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1793">
+        <SubVillageName>पुनर्वसन गावठाण(१२)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1794">
+        <SubVillageName>डाल वस्ती(१३)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="25">
+      <VillageName>धानोरे</VillageName>
+      <SubVillageCode Code="1765">
+        <SubVillageName>धानोरे(२१)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1801">
+        <SubVillageName>धानोरे(१७)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="26">
+      <VillageName>दरेकरवाडी</VillageName>
+      <SubVillageCode Code="1767">
+        <SubVillageName>दरेकरवाडी(२४)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1803">
+        <SubVillageName>दरेकरवाडी(२१)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="27">
+      <VillageName>डिंग्रजवाडी</VillageName>
+      <SubVillageCode Code="1766">
+        <SubVillageName>डिंग्रजवाडी(२५)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1802">
+        <SubVillageName>डिंग्रजवाडी(२२)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="33">
+      <VillageName>सणसवाडी</VillageName>
+      <SubVillageCode Code="1768">
+        <SubVillageName>सणसवाडी(२४)(विठ्ठलववाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1812">
+        <SubVillageName>सणसवाडी(२३)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="35">
+      <VillageName>टाकळी भिमा</VillageName>
+      <SubVillageCode Code="359">
+        <SubVillageName>बाळोबाच्री वाडी(१८)म्हाळुंगी डँममार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1763">
+        <SubVillageName>टाकळी भिमा (१९)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1777">
+        <SubVillageName>पाचर्णेवस्ती(२४)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1779">
+        <SubVillageName>कुंड(२२) (विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1795">
+        <SubVillageName>टाकळी भिमा (१६)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1796">
+        <SubVillageName>कुंड(१८)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1797">
+        <SubVillageName>पाचर्णेवस्ती(२०)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1798">
+        <SubVillageName>दोरगेवस्ती(१५)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1809">
+        <SubVillageName>घोलपवाडी(२०)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="36">
+      <VillageName>शिवतक्रर म्हाळुंगी</VillageName>
+      <SubVillageCode Code="1773">
+        <SubVillageName>शिवतक्रर म्हाळुंगी(३०)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1866">
+        <SubVillageName>शिवतक्रर म्हाळुंगी(१३)(टायर/ट्रॅ.गा)(वडगाव बांडे मार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="37">
+      <VillageName>पारोडी</VillageName>
+      <SubVillageCode Code="1774">
+        <SubVillageName>पारोडी(33)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1806">
+        <SubVillageName>पारोडी(15)(टायर/टा.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="193">
+      <VillageName>निमगाव म्हाळुंगी</VillageName>
+      <SubVillageCode Code="1772">
+        <SubVillageName>निमगाव म्हाळुंगी(31)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1807">
+        <SubVillageName>निमगाव म्हाळुंगी(18)(विठ्ठलवाडीमार्गे</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1808">
+        <SubVillageName>माळीमळा(19) (टायर/ट्रॅ.गा) (म्हाळुंगीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1133">
+      <VillageName>रांजणगाव गणपती</VillageName>
+      <SubVillageCode Code="1770">
+        <SubVillageName>रांजनगाव गणपती(३७)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1810">
+        <SubVillageName>रांजनगाव गणपती(30) (टायर/ट्रॅ.गा) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1379">
+      <VillageName>कासारी</VillageName>
+      <SubVillageCode Code="1769">
+        <SubVillageName>कासारी(२७)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1811">
+        <SubVillageName>कासारी(१७)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1532">
+      <VillageName>करजावणे</VillageName>
+      <SubVillageCode Code="1771">
+        <SubVillageName>करंजावणे(३७)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="1083">
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode Code="29">
+      <VillageName>वढू बु </VillageName>
+      <SubVillageCode Code="1752">
+        <SubVillageName>वढू बु (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1756">
+        <SubVillageName>रानोबाचीवाडी (३४) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="30">
+      <VillageName>आपटी</VillageName>
+      <SubVillageCode Code="1753">
+        <SubVillageName>आपटी (३५) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="31">
+      <VillageName>जातेगाव खुर्द</VillageName>
+      <SubVillageCode Code="1746">
+        <SubVillageName>जातेगाव खुर्द (३०) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="32">
+      <VillageName>शिक्रापूर</VillageName>
+      <SubVillageCode Code="1739">
+        <SubVillageName>शिक्रापुर(विठ्ठलवाडीमार्गे)(२३)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1740">
+        <SubVillageName>राऊतवाडी (२७) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1741">
+        <SubVillageName>बुरुंजवाडी (२८) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1759">
+        <SubVillageName>राऊतवाडी (२४) (टायर/ट्रॅ.गा.) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1833">
+        <SubVillageName>शिक्रापूर(२०)(टायर.ट्रॅ.गाडी)(विठ्ठलवाडी मार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="34">
+      <VillageName>करंदी</VillageName>
+      <SubVillageCode Code="1744">
+        <SubVillageName>करंदी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="58">
+      <VillageName>जातेगाव ब्रु</VillageName>
+      <SubVillageCode Code="1747">
+        <SubVillageName>जातेगाव बु (२८) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="146">
+      <VillageName>बुरुजवाडी</VillageName>
+      <SubVillageCode Code="1836">
+        <SubVillageName>बुरंजवाडी(२४)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="148">
+      <VillageName>पिंपळे धुमाळ</VillageName>
+      <SubVillageCode Code="1748">
+        <SubVillageName>पिंपळे धुमाळ (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1087">
+      <VillageName>कोंढापुरी</VillageName>
+      <SubVillageCode Code="1743">
+        <SubVillageName>कोंढापुरी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1089">
+      <VillageName>वाजेवाडी</VillageName>
+      <SubVillageCode Code="1750">
+        <SubVillageName>वाजेवाडी (३६) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1096">
+      <VillageName>कोरेगाव भिमा</VillageName>
+      <SubVillageCode Code="1754">
+        <SubVillageName>कोरेगाव भिमा (२८) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1103">
+      <VillageName>गणेगाव खालसा</VillageName>
+      <SubVillageCode Code="1742">
+        <SubVillageName>गणेगाव खालसा (३३) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1837">
+        <SubVillageName>गणेगाव खालसा(२७)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1106">
+      <VillageName>पिंपळे जगताप</VillageName>
+      <SubVillageCode Code="1755">
+        <SubVillageName>पिंपळे जगताप (३४) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1383">
+      <VillageName>मुखई</VillageName>
+      <SubVillageCode Code="1835">
+        <SubVillageName>मुखई(३४)(विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1497">
+      <VillageName>हिवरे</VillageName>
+      <SubVillageCode Code="1853">
+        <SubVillageName>हिवरे(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1559">
+      <VillageName>खंडाळा</VillageName>
+      <SubVillageCode Code="1834">
+        <SubVillageName>खंडाळा(३५) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1561">
+      <VillageName>वाघाळे</VillageName>
+      <SubVillageCode Code="1749">
+        <SubVillageName>वाघाळे (३७) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1758">
+        <SubVillageName>वाघाळे (३३) (टायर/ट्रॅ.गा.) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1571">
+      <VillageName>धामारी</VillageName>
+      <SubVillageCode Code="1745">
+        <SubVillageName>धामारी (३९) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1760">
+        <SubVillageName>धामारी (३५) (टायर/ट्रॅ.गा.) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1574">
+      <VillageName>पिंपरी दुमाला</VillageName>
+      <SubVillageCode Code="1757">
+        <SubVillageName>पिंपरी दुमाला (३८) (टायर/ट्रॅ.गा.) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1841">
+      <VillageName>वरुडे</VillageName>
+      <SubVillageCode Code="1842">
+        <SubVillageName>वरुडे(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+  </GatCode>
+</SubVillageList>

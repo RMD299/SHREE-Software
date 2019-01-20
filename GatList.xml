@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GatDetails>
+  <GatCode Code="12">
+    <GatName>राहु</GatName>
+  </GatCode>
+  <GatCode Code="13">
+    <GatName>पारगाव</GatName>
+  </GatCode>
+  <GatCode Code="14">
+    <GatName>रांजणगाव सांडस</GatName>
+  </GatCode>
+  <GatCode Code="15">
+    <GatName>हवेली</GatName>
+  </GatCode>
+  <GatCode Code="16">
+    <GatName>खेड</GatName>
+  </GatCode>
+  <GatCode Code="17">
+    <GatName>श्रीगोंदा</GatName>
+  </GatCode>
+  <GatCode Code="18">
+    <GatName>गेटकेन</GatName>
+  </GatCode>
+  <GatCode Code="19">
+    <GatName>खामगाव</GatName>
+  </GatCode>
+  <GatCode Code="20">
+    <GatName>तळेगाव ढमढेरे</GatName>
+  </GatCode>
+  <GatCode Code="1083">
+    <GatName>शिक्रापूर</GatName>
+  </GatCode>
+  <GatCode Code="1389">
+    <GatName>कर्जत</GatName>
+  </GatCode>
+</GatDetails>

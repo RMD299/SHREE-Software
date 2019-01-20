@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IrrigationType>
+  <IrrigationCode Code="3">
+    <TypeName>विहीर</TypeName>
+  </IrrigationCode>
+  <IrrigationCode Code="1">
+    <TypeName>कॅनल</TypeName>
+  </IrrigationCode>
+  <IrrigationCode Code="2">
+    <TypeName>लिफ्ट</TypeName>
+  </IrrigationCode>
+  <IrrigationCode Code="4">
+    <TypeName>ठिबक सिंचन</TypeName>
+  </IrrigationCode>
+</IrrigationType>

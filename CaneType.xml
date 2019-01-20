@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CaneType>
+  <CaneCode Code="2">
+    <TypeName>सुरु</TypeName>
+  </CaneCode>
+  <CaneCode Code="1">
+    <TypeName>आडसाली</TypeName>
+  </CaneCode>
+  <CaneCode Code="3">
+    <TypeName>खोडवा</TypeName>
+  </CaneCode>
+  <CaneCode Code="4">
+    <TypeName>पुर्व हंगामी</TypeName>
+  </CaneCode>
+</CaneType>
